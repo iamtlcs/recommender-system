@@ -7,5 +7,5 @@ K-fold CV, multi-perceptron and different numerical optimization methods are use
 We have `user_id` and `item_id` to predict the rating of each users to each items.
 
 ## Project 2
-We have not only `user_id` and `item_id` but also the 'genre' of each items and the users rating date `date`.
+We have not only `user_id` and `item_id` but also the `genre` of each items and the users rating date `date`.
 In addition to these essentials, there is an dataset of user social network which have also taken into account to create graphs.
