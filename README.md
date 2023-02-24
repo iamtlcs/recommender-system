@@ -8,4 +8,4 @@ We have `user_id` and `item_id` to predict the rating of each users to each item
 
 ## Project 2
 We have not only `user_id` and `item_id` but also the `genre` of each items and the users rating date `date`.
-In addition to these essentials, there is an dataset of user social network which have also taken into account to create graphs.
+In addition to these essentials, there is an dataset of user social network `user_social_net` which have also taken into account to create graphs.
