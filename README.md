@@ -1,4 +1,4 @@
-# recommedner-system
+# recommender-system
 
 These are the recommender systems learned from STAT3009 which mainly focus on neural network and matrix factorisation. 
 K-fold CV, multi-perceptron and different numerical optimization methods are used in the program.
